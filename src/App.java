@@ -1,6 +1,4 @@
 public class App {
-
-
     //This method takes in two int parameters to add.
     private static int computeSum(int num1, int num2){
         return num1 + num2;
